@@ -1,9 +1,18 @@
 <div align="center">
-  <img src="https://i.ibb.co/Fk4sSC7X/ALRI-SF-W.png" width="220" alt="ALRI Group Logo">
+  <img src="https://cdn.alrigroup.com/ALRI-SF-W.png" width="220" alt="ALRI Group Logo">
 
   # ALRI GROUP
   **"From a vision in 2020 to a multi-disciplinary tech reality."**
 
+  <br>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=550&lines=High-Performance+Systems;Cyber+Security+%26+Auditing;Holding+%26+Tech+Subsidiaries;Reverse+Engineering+%26+Modding" alt="Typing SVG" />
+  </a>
+
+  <br>
+
+  [![Website](https://img.shields.io/badge/Website-alrigroup.com-FF0000?style=flat-square&logo=googlechrome&logoColor=white)](https://alrigroup.com)
   [![Founder](https://img.shields.io/badge/Founder-@alexsanderalri-black?style=flat-square&logo=github)](https://github.com/alexsanderalri)
   [![Status](https://img.shields.io/badge/Status-Developing-green?style=flat-square)](#)
 </div>
@@ -15,12 +24,11 @@ ALRI GROUP began as a dream in **2020**. What started as a conceptual idea by it
 
 ---
 
-### 🏢 Corporate Structure & Specialized Divisions
-ALRI GROUP acts as a **Holding Company** and **Parent Organization** for specialized tech subsidiaries, allowing each branch to focus exclusively on its domain while sharing core values of security, performance, and low-level control:
+### 🏢 Corporate Structure & Subsidiaries
+ALRI GROUP operates as a **Holding Company** and **Parent Organization** for specialized tech subsidiaries, allowing each branch to focus exclusively on its domain while sharing core values of security, performance, and low-level control.
 
-* **📂 AR Development:** Focused on high-performance back-end architectures, APIs, full-stack solutions (web & native client apps), system development, and hardware-level integration.
-* **🛡️ AR Security:** Our elite division for cyber security research, vulnerability management, security consultancy, and bug bounty initiatives.
-* **🎮 AR Games & Modding:** Dedicated to game logic & mechanics, engine-level engineering, low-level modifications, Samsung/Android root solutions, and reverse engineering.
+🌐 **Website:** [alrigroup.com](https://alrigroup.com)  
+🏢 **Explore our companies:** [alrigroup.com/#companies](https://alrigroup.com/#companies)
 
 ---
 
@@ -50,8 +58,25 @@ We are actively building the foundations for our sub-divisions to operate as ful
 
 ---
 
+### 📊 GitHub Organization Metrics
+
+<div align="center">
+  <img src="./github-metrics.svg" alt="ALRI Group Metrics" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Falrigroup%2Falrigroup.json&style=for-the-badge&label=ORGANIZATION%20VIEWS&color=FF0000&logo=eye&logoColor=white" alt="ALRI Group Views" />
+  <br>
+  <sub>Tracking views for the ALRI Group organization</sub>
+</div>
+
+---
+
 ### 📫 Connect & Community
 
+[![Website](https://img.shields.io/badge/Website-alrigroup.com-FF0000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alrigroup.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/alrigroup)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/alrigroup)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@alrigroup.com)
