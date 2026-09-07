@@ -58,28 +58,18 @@ We are actively building the foundations for our sub-divisions to operate as ful
 
 ---
 
-### 📊 GitHub Organization Metrics
-
-<div align="center">
-  <img src="./github-metrics.svg" alt="ALRI Group Metrics" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Falrigroup%2Falrigroup.json&style=for-the-badge&label=ORGANIZATION%20VIEWS&color=FF0000&logo=eye&logoColor=white" alt="ALRI Group Views" />
-  <br>
-  <sub>Tracking views for the ALRI Group organization</sub>
-</div>
-
----
-
 ### 📫 Connect & Community
 
 [![Website](https://img.shields.io/badge/Website-alrigroup.com-FF0000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alrigroup.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/alrigroup)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/alrigroup)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@alrigroup.com)
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Falrigroup%2Falrigroup.json&style=for-the-badge&label=ORGANIZATION%20VIEWS&color=FF0000&logo=eye&logoColor=white" alt="ALRI Group Views" />
+</div>
 
 <br>
 
